@@ -5,8 +5,8 @@
 
 # squid4 for autoinstall  with dns-crypt&unbound
 * I use ubuntu 14.04 in session to install this squid4
-* my ip address proxy server  192.168.1.200
-* dns-nameservers 192.168.1.1 gateway 192.168.1.1
+* my ip address proxy server  10.10.10.10
+* dns-nameservers 10.10.10.1 gateway 10.10.10.1
 
 # replace with your ip address on the config below :
 * unbound.conf ---->  replace with the your IP address proxy and domain
