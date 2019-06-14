@@ -1,5 +1,7 @@
 ﻿
-#بدر الدكرورى- ميكروتيك المنصورة 01060331634 https://www.facebook.com/Bader.ELDakroury https://www.facebook.com/groups/speedlink1980/?ref=bookmarks
+#بدر الدكرورى- ميكروتيك المنصورة 01060331634
+*https://www.facebook.com/Bader.ELDakroury
+*https://www.facebook.com/groups/speedlink1980/?ref=bookmarks
 
 # squid4 for autoinstall  with dns-crypt&unbound
 * I use ubuntu 14.04 in session to install this squid4
